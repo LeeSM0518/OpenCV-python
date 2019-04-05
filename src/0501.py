@@ -1,7 +1,7 @@
 # 0501.py
 import cv2
 import numpy as np
-src = cv2.imread('./data/heart10.jpg', cv2.IMREAD_GRAYSCALE)
+src = cv2.imread('../data/heart10.jpg', cv2.IMREAD_GRAYSCALE)
 cv2.imshow('src',  src)
 
 ret, dst = cv2.threshold(src, 120, 255, cv2.THRESH_BINARY)

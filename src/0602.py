@@ -2,7 +2,7 @@
 import cv2
 import numpy as np
 
-src = cv2.imread('./data/lena.jpg', cv2.IMREAD_GRAYSCALE)
+src = cv2.imread('../data/lena.jpg', cv2.IMREAD_GRAYSCALE)
 
 dst1= cv2.medianBlur(src, ksize = 7)
 dst2 = cv2.blur(src, ksize=(7, 7))

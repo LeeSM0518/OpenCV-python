@@ -2,7 +2,7 @@
 import cv2
 from   matplotlib import pyplot as plt
 
-bgr = cv2.imread('./data/lena.jpg')
+bgr = cv2.imread('../data/lena.jpg')
 ##hsv    = cv2.cvtColor(src, cv2.COLOR_BGR2HSV)
 
 #1
