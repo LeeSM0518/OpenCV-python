@@ -1,7 +1,6 @@
 import numpy as np
 import cv2
 
-
 def tracking():
     img = cv2.imread('../data/news.png')
     img_hsv = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)

@@ -12,13 +12,13 @@ while True:
         break
 
     # 방향키 방향전환
-    elif key == 0x61:  # righta
+    elif key == 0x27:  # right
         direction = 0
-    elif key == 0x62:  # down
+    elif key == 0x28:  # down
         direction = 1
-    elif key == 0x63:  # left
+    elif key == 0x25:  # left
         direction = 2
-    elif key == 0x64:  # up
+    elif key == 0x26:  # up
         direction = 3
 
     # 방향으로 이동
