@@ -3,7 +3,7 @@ import cv2
 from   matplotlib import pyplot as plt
 
 #1
-src = cv2.imread('./data/people.png')
+src = cv2.imread('../data/people.png')
 hog = cv2.HOGDescriptor()
 hog.setSVMDetector(cv2.HOGDescriptor_getDefaultPeopleDetector())
 

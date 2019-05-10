@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 
 #1
-gray = cv2.imread('./data/lena.jpg', cv2.IMREAD_GRAYSCALE)
+gray = cv2.imread('../data/lena.jpg', cv2.IMREAD_GRAYSCALE)
 
 #2
 gray_sum = cv2.integral(gray)

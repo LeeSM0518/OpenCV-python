@@ -3,12 +3,12 @@ import cv2
 import numpy as np
 
 #1
-ref_src  = cv2.imread('./data/refShapes.jpg')
+ref_src  = cv2.imread('../data/refShapes.jpg')
 ref_gray = cv2.cvtColor(ref_src, cv2.COLOR_BGR2GRAY)
 ret, ref_bin = cv2.threshold(ref_gray, 0, 255,
                              cv2.THRESH_BINARY_INV+cv2.THRESH_OTSU)
 
-test_src  = cv2.imread('./data/testShapes1.jpg')
+test_src  = cv2.imread('../data/testShapes1.jpg')
 ##test_src  = cv2.imread('./data/testShapes2.jpg')
 ##test_src  = cv2.imread('./data/testShapes3.jpg')
 test_gray = cv2.cvtColor(test_src, cv2.COLOR_BGR2GRAY)

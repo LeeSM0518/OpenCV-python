@@ -28,7 +28,7 @@ trainData = cv2.ml.TrainData_create(samples=X,
 ret = ann.train(trainData)
 
 #4
-ann.save('./data/ann-xor.train')
+ann.save('../data/ann-xor.train')
 
 #5
 h = 0.01

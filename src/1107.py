@@ -31,8 +31,8 @@ def loadIrisData(fileName):
 ##  y = data[:,-3:].copy()  # class, one-hot-encoding
   return x, y
 
-x_train, y_train=loadIrisData('./data/irisTrainData.txt')
-x_test,  y_test = loadIrisData('./data/irisTestData.txt')
+x_train, y_train=loadIrisData('../data/irisTrainData.txt')
+x_test,  y_test = loadIrisData('../data/irisTestData.txt')
 print('x_train.shape=', x_train.shape)
 print('y_train.shape=', y_train.shape)
 print('x_test.shape=',  x_test.shape)
