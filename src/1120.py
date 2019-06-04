@@ -7,14 +7,12 @@ import numpy as np
 import cv2, pafy
 
 faceCascade= cv2.CascadeClassifier(
-      './haarcascades/haarcascade_frontalface_default.xml')
+      '../data_tutorial/haarcascade_frontface.xml')
 
-url = 'https://www.youtube.com/watch?v=S_0ikqqccJs'
+url = 'https://www.youtube.com/watch?v=uW5W9mbD_WQ'
 video = pafy.new(url)
-print('title = ', video.title)
 
 best = video.getbest(preftype='webm')
-print('best.resolution', best.resolution)
 
 cap=cv2.VideoCapture(best.url)
 while(True):

@@ -43,10 +43,10 @@ def ont_hot_encoding(y): # assume that y is 1-D array
   
 # Extract it into np arrays.
 def load_MINIST(flatten=True, one_hot=True):
-  x_train=extract_data('./data/train-images-idx3-ubyte.gz',  60000)
-  y_train=extract_labels('./data/train-labels-idx1-ubyte.gz',60000)
-  x_test =extract_data('./data/t10k-images-idx3-ubyte.gz',   10000)
-  y_test =extract_labels('./data/t10k-labels-idx1-ubyte.gz', 10000)
+  x_train=extract_data('../data/train-images-idx3-ubyte.gz',  60000)
+  y_train=extract_labels('../data/train-labels-idx1-ubyte.gz',60000)
+  x_test =extract_data('../data/t10k-images-idx3-ubyte.gz',   10000)
+  y_test =extract_labels('../data/t10k-labels-idx1-ubyte.gz', 10000)
 
   if flatten:
     x_train= x_train.reshape(-1, IMAGE_SIZE*IMAGE_SIZE) # (60000, 784)

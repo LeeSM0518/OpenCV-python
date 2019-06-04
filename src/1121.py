@@ -6,7 +6,7 @@ import random
 #1
 WIDTH = 92
 HEIGHT = 112
-def load_face(filename='./data/faces.csv', test_ratio=0.2):
+def load_face(filename='../data/faces.csv', test_ratio=0.2):
     file = open(filename, 'r')
     lines = file.readlines()
 

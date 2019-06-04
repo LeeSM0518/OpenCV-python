@@ -1,0 +1,2 @@
+model_checkpoint_path: "XOR_model.ckpt"
+all_model_checkpoint_paths: "XOR_model.ckpt"

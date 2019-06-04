@@ -2,7 +2,7 @@
 import cv2
  
 #1
-cap = cv2.VideoCapture('./data/stitch_videoInput.mp4')
+cap = cv2.VideoCapture('.,/data/stitch_videoInput.mp4')
 t = 0 
 images = []
 STEP = 20
@@ -26,7 +26,7 @@ print('len(images)=', len(images))
 stitcher = cv2.createStitcher()
 status, dst = stitcher.stitch(images)
 if status == cv2.STITCHER_OK:
-    cv2.imwrite('./data/video_stitch_out.jpg', dst)
+    cv2.imwrite('.,/data/video_stitch_out.jpg', dst)
     cv2.imshow('dst',dst)
     cv2.waitKey()
 

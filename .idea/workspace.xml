@@ -3,20 +3,32 @@
   <component name="ChangeListManager">
     <list default="true" id="1aa53581-f839-42d1-bcdd-2204eb44feb9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ann-xor.train" beforeDir="false" afterPath="$PROJECT_DIR$/data/ann-xor.train" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/0803.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/0803.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/0811.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/0811.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/0816.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/0816.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/0818.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/0818.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/0902.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/0902.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/0909.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/0909.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/0916.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/0916.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/0917.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/0917.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/0918.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/0918.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/0919.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/0919.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/0920.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/0920.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/1103.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1103.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/1107.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1107.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/0901.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/0901.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/0903.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/0903.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/0904.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/0904.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/0905.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/0905.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/0906.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/0906.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/0907.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/0907.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/0908.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/0908.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/0910.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/0910.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/0913.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/0913.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/0921.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/0921.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/1001.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/1005.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/1006.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1006.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/1007.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1007.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/1011.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1011.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/1013.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1013.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/1014.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1014.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/1104.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1104.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/1108.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1108.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/1110.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1110.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/1111.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1111.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/1112.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1112.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/1113.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1113.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/1114.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1114.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/1120.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1120.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/1121.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1121.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -108,66 +120,81 @@
     <expand />
     <select />
   </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/dir/camera_output.py">
+                <provider selected="true" editor-type-id="text-editor" />
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="opencv" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/1109.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/project/tracking2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="794">
+              <caret line="59" column="9" lean-forward="true" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/1110.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/project/tracking.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="35" column="37" lean-forward="true" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/1111.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/1006.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="950">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/1112.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/1113.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/1114.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/1115.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/1116.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/1007.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-11">
+              <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dir/quiz7.py">
+        <entry file="file://$PROJECT_DIR$/project/trackingBall.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+            <state relative-caret-position="348">
+              <caret line="63" column="31" lean-forward="true" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
               <folding>
-                <element signature="e#10#20#0" expanded="true" />
+                <element signature="e#32#61#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/1116_thinning.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/1005.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="737">
+              <caret line="49" column="30" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -182,6 +209,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>number</find>
+      <find>image</find>
+      <find>findCou</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -193,37 +222,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/0415.py" />
-        <option value="$PROJECT_DIR$/src/0414.py" />
-        <option value="$PROJECT_DIR$/src/0403.py" />
-        <option value="$PROJECT_DIR$/src/0406.py" />
-        <option value="$PROJECT_DIR$/src/0405.py" />
-        <option value="$PROJECT_DIR$/src/0402.py" />
-        <option value="$PROJECT_DIR$/drawing_shapes/cv-04-01.py" />
-        <option value="$PROJECT_DIR$/src/0404.py" />
-        <option value="$PROJECT_DIR$/color_tracking/cv-09-1.py" />
-        <option value="$PROJECT_DIR$/color_tracking/cv-09-2.py" />
-        <option value="$PROJECT_DIR$/image_thresholding/cv-10-1.py" />
-        <option value="$PROJECT_DIR$/src/0501.py" />
-        <option value="$PROJECT_DIR$/src/0502.py" />
-        <option value="$PROJECT_DIR$/src/0505.py" />
-        <option value="$PROJECT_DIR$/src/0506.py" />
-        <option value="$PROJECT_DIR$/src/0508.py" />
-        <option value="$PROJECT_DIR$/src/0509.py" />
-        <option value="$PROJECT_DIR$/src/0511.py" />
-        <option value="$PROJECT_DIR$/src/0601.py" />
-        <option value="$PROJECT_DIR$/src/0602.py" />
-        <option value="$PROJECT_DIR$/src/0603.py" />
-        <option value="$PROJECT_DIR$/src/0604.py" />
-        <option value="$PROJECT_DIR$/src/0605.py" />
-        <option value="$PROJECT_DIR$/src/0611.py" />
-        <option value="$PROJECT_DIR$/src/0202.py" />
-        <option value="$PROJECT_DIR$/src/0612.py" />
-        <option value="$PROJECT_DIR$/dir/quiz4_2.py" />
-        <option value="$PROJECT_DIR$/dir/quiz5_2.py" />
-        <option value="$PROJECT_DIR$/dir/quiz5_3.py" />
-        <option value="$PROJECT_DIR$/dir/quiz1.py" />
-        <option value="$PROJECT_DIR$/dir/quiz4.py" />
         <option value="$PROJECT_DIR$/dir/quiz2.py" />
         <option value="$PROJECT_DIR$/dir/quiz3.py" />
         <option value="$PROJECT_DIR$/dir/quiz5.py" />
@@ -244,14 +242,45 @@
         <option value="$PROJECT_DIR$/dir/quiz7.py" />
         <option value="$PROJECT_DIR$/src/1103.py" />
         <option value="$PROJECT_DIR$/src/1107.py" />
+        <option value="$PROJECT_DIR$/socket.py" />
+        <option value="$PROJECT_DIR$/src/1113.py" />
+        <option value="$PROJECT_DIR$/src/1110.py" />
+        <option value="$PROJECT_DIR$/src/1111.py" />
+        <option value="$PROJECT_DIR$/src/1116.py" />
+        <option value="$PROJECT_DIR$/src/1121.py" />
+        <option value="$PROJECT_DIR$/src/1120.py" />
+        <option value="$PROJECT_DIR$/src/0901.py" />
+        <option value="$PROJECT_DIR$/src/0903.py" />
+        <option value="$PROJECT_DIR$/src/0904.py" />
+        <option value="$PROJECT_DIR$/src/0905.py" />
+        <option value="$PROJECT_DIR$/src/0906.py" />
+        <option value="$PROJECT_DIR$/src/0907.py" />
+        <option value="$PROJECT_DIR$/src/0908.py" />
+        <option value="$PROJECT_DIR$/src/0910.py" />
+        <option value="$PROJECT_DIR$/src/0913.py" />
+        <option value="$PROJECT_DIR$/src/0921.py" />
+        <option value="$PROJECT_DIR$/src/1001.py" />
+        <option value="$PROJECT_DIR$/src/1006.py" />
+        <option value="$PROJECT_DIR$/src/1011.py" />
+        <option value="$PROJECT_DIR$/src/1013.py" />
+        <option value="$PROJECT_DIR$/src/1014.py" />
+        <option value="$PROJECT_DIR$/src/1104.py" />
+        <option value="$PROJECT_DIR$/src/1108.py" />
+        <option value="$PROJECT_DIR$/src/1112.py" />
+        <option value="$PROJECT_DIR$/src/1114.py" />
+        <option value="$PROJECT_DIR$/project/tracking2.py" />
+        <option value="$PROJECT_DIR$/project/tracking.py" />
+        <option value="$PROJECT_DIR$/src/1005.py" />
+        <option value="$PROJECT_DIR$/src/1007.py" />
+        <option value="$PROJECT_DIR$/project/trackingBall.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="640" />
+    <option name="x" value="1280" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="1177" />
+    <option name="height" value="1417" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -267,6 +296,61 @@
               <item name="opencv" type="b2602c69:ProjectViewProjectNode" />
               <item name="opencv" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="opencv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="opencv" type="462c0819:PsiDirectoryNode" />
+              <item name="data_tutorial" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="opencv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="opencv" type="462c0819:PsiDirectoryNode" />
+              <item name="dir" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="opencv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="opencv" type="462c0819:PsiDirectoryNode" />
+              <item name="drawing_shapes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="opencv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="opencv" type="462c0819:PsiDirectoryNode" />
+              <item name="drawing_shapes_with_the_mouse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="opencv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="opencv" type="462c0819:PsiDirectoryNode" />
+              <item name="image_reading_and_writing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="opencv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="opencv" type="462c0819:PsiDirectoryNode" />
+              <item name="image_synthesis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="opencv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="opencv" type="462c0819:PsiDirectoryNode" />
+              <item name="image_thresholding" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="opencv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="opencv" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="opencv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="opencv" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="opencv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="opencv" type="462c0819:PsiDirectoryNode" />
+              <item name="trackbar_using" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="opencv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="opencv" type="462c0819:PsiDirectoryNode" />
+              <item name="video_reading_and_writing" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -276,11 +360,14 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/project" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/project" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/data" />
       <recent name="$PROJECT_DIR$/image_synthesis" />
@@ -299,8 +386,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.quiz7">
-    <configuration name="1101" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.trackingBall">
+    <configuration name="1005" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="opencv" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -313,7 +400,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/1101.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/1005.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -322,7 +409,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1102" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1006" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="opencv" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -335,7 +422,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/1102.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/1006.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -344,7 +431,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1103" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1007" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="opencv" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -357,7 +444,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/1103.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/1007.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -366,7 +453,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1107" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tracking" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="opencv" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -374,12 +461,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/1107.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/tracking.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -388,7 +475,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="quiz7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="trackingBall" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="opencv" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -396,12 +483,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dir" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dir/quiz7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/trackingBall.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -411,19 +498,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.quiz7" />
-      <item itemvalue="Python.1101" />
-      <item itemvalue="Python.1102" />
-      <item itemvalue="Python.1103" />
-      <item itemvalue="Python.1107" />
+      <item itemvalue="Python.tracking" />
+      <item itemvalue="Python.1006" />
+      <item itemvalue="Python.1005" />
+      <item itemvalue="Python.1007" />
+      <item itemvalue="Python.trackingBall" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.quiz7" />
-        <item itemvalue="Python.1107" />
-        <item itemvalue="Python.1103" />
-        <item itemvalue="Python.1102" />
-        <item itemvalue="Python.1101" />
+        <item itemvalue="Python.trackingBall" />
+        <item itemvalue="Python.1007" />
+        <item itemvalue="Python.1005" />
+        <item itemvalue="Python.1006" />
+        <item itemvalue="Python.tracking" />
       </list>
     </recent_temporary>
   </component>
@@ -455,21 +542,24 @@
       <workItem from="1556246932901" duration="735000" />
       <workItem from="1556850368023" duration="2869000" />
       <workItem from="1557446801306" duration="1723000" />
+      <workItem from="1558603582804" duration="860000" />
+      <workItem from="1559266785672" duration="4697000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48847000" />
+    <option name="totallyTimeSpent" value="54404000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="640" y="23" width="1280" height="1177" extended-state="0" />
+    <frame x="1280" y="23" width="1280" height="1417" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15831988" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1631664" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32956383" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32935324" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.26082948" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21283019" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -478,13 +568,13 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32981133" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.3299539" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.29392973" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.29321486" />
       <window_info anchor="right" id="Database" order="4" weight="0.32897604" />
     </layout>
   </component>
@@ -492,255 +582,394 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/opencv$0918.coverage" NAME="0918 Coverage Results" MODIFIED="1556851500631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/opencv$quiz4.coverage" NAME="quiz4 Coverage Results" MODIFIED="1555592751728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dir" />
-    <SUITE FILE_PATH="coverage/opencv$0405.coverage" NAME="0405 Coverage Results" MODIFIED="1555037580325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/opencv$1103.coverage" NAME="1103 Coverage Results" MODIFIED="1557447035783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/opencv$quiz1.coverage" NAME="quiz1 Coverage Results" MODIFIED="1555592032672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dir" />
-    <SUITE FILE_PATH="coverage/opencv$quiz5_2.coverage" NAME="quiz5_2 Coverage Results" MODIFIED="1555590070167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dir" />
+    <SUITE FILE_PATH="coverage/opencv$0918.coverage" NAME="0918 Coverage Results" MODIFIED="1559274739844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$0921.coverage" NAME="0921 Coverage Results" MODIFIED="1559274758467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$1103.coverage" NAME="1103 Coverage Results" MODIFIED="1559275043188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$1005.coverage" NAME="1005 Coverage Results" MODIFIED="1559275738731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$0903.coverage" NAME="0903 Coverage Results" MODIFIED="1559274638928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$1011.coverage" NAME="1011 Coverage Results" MODIFIED="1559274911053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/opencv$0811.coverage" NAME="0811 Coverage Results" MODIFIED="1556851033461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$1002.coverage" NAME="1002 Coverage Results" MODIFIED="1559274779670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/opencv$0704.coverage" NAME="0704 Coverage Results" MODIFIED="1556256653275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/opencv$0818.coverage" NAME="0818 Coverage Results" MODIFIED="1556850779965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/opencv$0920.coverage" NAME="0920 Coverage Results" MODIFIED="1556851360783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/opencv$0612.coverage" NAME="0612 Coverage Results" MODIFIED="1555570130114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/opencv$0916.coverage" NAME="0916 Coverage Results" MODIFIED="1556850967894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/opencv$quiz3.coverage" NAME="quiz3 Coverage Results" MODIFIED="1555592247808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dir" />
-    <SUITE FILE_PATH="coverage/opencv$0919.coverage" NAME="0919 Coverage Results" MODIFIED="1556851341564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/opencv$1102.coverage" NAME="1102 Coverage Results" MODIFIED="1557447015115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/opencv$1107.coverage" NAME="1107 Coverage Results" MODIFIED="1557447072143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$tracking.coverage" NAME="tracking Coverage Results" MODIFIED="1559275499101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
+    <SUITE FILE_PATH="coverage/opencv$1107.coverage" NAME="1107 Coverage Results" MODIFIED="1559275062820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/opencv$0611.coverage" NAME="0611 Coverage Results" MODIFIED="1555037055509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/opencv$0902.coverage" NAME="0902 Coverage Results" MODIFIED="1556851005965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/opencv$0418.coverage" NAME="0418 Coverage Results" MODIFIED="1555593278450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$0902.coverage" NAME="0902 Coverage Results" MODIFIED="1559274629638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$0905.coverage" NAME="0905 Coverage Results" MODIFIED="1559274651589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$1012.coverage" NAME="1012 Coverage Results" MODIFIED="1559274948365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/opencv$quiz5_3.coverage" NAME="quiz5_3 Coverage Results" MODIFIED="1555590704741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dir" />
     <SUITE FILE_PATH="coverage/opencv$0816.coverage" NAME="0816 Coverage Results" MODIFIED="1556850438097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/opencv$1101.coverage" NAME="1101 Coverage Results" MODIFIED="1557447005398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/opencv$0917.coverage" NAME="0917 Coverage Results" MODIFIED="1556851528846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/opencv$0406.coverage" NAME="0406 Coverage Results" MODIFIED="1555037587408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$0917.coverage" NAME="0917 Coverage Results" MODIFIED="1559274733124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$socket.coverage" NAME="socket Coverage Results" MODIFIED="1558603918216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/opencv$0202.coverage" NAME="0202 Coverage Results" MODIFIED="1555037565625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$1006.coverage" NAME="1006 Coverage Results" MODIFIED="1559275653478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$trackingBall.coverage" NAME="trackingBall Coverage Results" MODIFIED="1559276662860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
     <SUITE FILE_PATH="coverage/opencv$quiz5.coverage" NAME="quiz5 Coverage Results" MODIFIED="1555592871468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dir" />
+    <SUITE FILE_PATH="coverage/opencv$1113.coverage" NAME="1113 Coverage Results" MODIFIED="1559275128724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$0913.coverage" NAME="0913 Coverage Results" MODIFIED="1559274715994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$1112.coverage" NAME="1112 Coverage Results" MODIFIED="1559275104471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$0901.coverage" NAME="0901 Coverage Results" MODIFIED="1559274618174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$0906.coverage" NAME="0906 Coverage Results" MODIFIED="1559274657862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$1120.coverage" NAME="1120 Coverage Results" MODIFIED="1559270627352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$quiz4.coverage" NAME="quiz4 Coverage Results" MODIFIED="1555592751728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dir" />
+    <SUITE FILE_PATH="coverage/opencv$0405.coverage" NAME="0405 Coverage Results" MODIFIED="1555037580325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$1114.coverage" NAME="1114 Coverage Results" MODIFIED="1559275138961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$1108.coverage" NAME="1108 Coverage Results" MODIFIED="1559275071068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$quiz1.coverage" NAME="quiz1 Coverage Results" MODIFIED="1555592032672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dir" />
+    <SUITE FILE_PATH="coverage/opencv$0904.coverage" NAME="0904 Coverage Results" MODIFIED="1559274645617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$0907.coverage" NAME="0907 Coverage Results" MODIFIED="1559274667427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$quiz5_2.coverage" NAME="quiz5_2 Coverage Results" MODIFIED="1555590070167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dir" />
+    <SUITE FILE_PATH="coverage/opencv$0818.coverage" NAME="0818 Coverage Results" MODIFIED="1556850779965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$0920.coverage" NAME="0920 Coverage Results" MODIFIED="1559274748658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$1007.coverage" NAME="1007 Coverage Results" MODIFIED="1559275876023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$0916.coverage" NAME="0916 Coverage Results" MODIFIED="1559274727408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$1001.coverage" NAME="1001 Coverage Results" MODIFIED="1559274768124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$1013.coverage" NAME="1013 Coverage Results" MODIFIED="1559274988611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$0919.coverage" NAME="0919 Coverage Results" MODIFIED="1559274745865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$1102.coverage" NAME="1102 Coverage Results" MODIFIED="1559275039836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$1111.coverage" NAME="1111 Coverage Results" MODIFIED="1559275087865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$1004.coverage" NAME="1004 Coverage Results" MODIFIED="1559274787419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$1104.coverage" NAME="1104 Coverage Results" MODIFIED="1559275050920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$0908.coverage" NAME="0908 Coverage Results" MODIFIED="1559274690316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$0418.coverage" NAME="0418 Coverage Results" MODIFIED="1555593278450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$1003.coverage" NAME="1003 Coverage Results" MODIFIED="1559274784385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$1110.coverage" NAME="1110 Coverage Results" MODIFIED="1559275076614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$1116.coverage" NAME="1116 Coverage Results" MODIFIED="1559267313115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$0406.coverage" NAME="0406 Coverage Results" MODIFIED="1555037587408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/opencv$quiz2.coverage" NAME="quiz2 Coverage Results" MODIFIED="1555592424574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dir" />
+    <SUITE FILE_PATH="coverage/opencv$0910.coverage" NAME="0910 Coverage Results" MODIFIED="1559274702119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$1014.coverage" NAME="1014 Coverage Results" MODIFIED="1559275028586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/opencv$0909.coverage" NAME="0909 Coverage Results" MODIFIED="1556850954042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/opencv$0803.coverage" NAME="0803 Coverage Results" MODIFIED="1556852547624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/opencv$tracking2.coverage" NAME="tracking2 Coverage Results" MODIFIED="1559275437098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
     <SUITE FILE_PATH="coverage/opencv$cv_10_1.coverage" NAME="cv-10-1 Coverage Results" MODIFIED="1555035937868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/image_thresholding" />
+    <SUITE FILE_PATH="coverage/opencv$1121.coverage" NAME="1121 Coverage Results" MODIFIED="1559267378822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/opencv$quiz7.coverage" NAME="quiz7 Coverage Results" MODIFIED="1557447230080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dir" />
+    <SUITE FILE_PATH="coverage/opencv$1115.coverage" NAME="1115 Coverage Results" MODIFIED="1559267294638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/0819.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/0818.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/0817.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/0816.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/0815.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/0814.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/0813.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/0812.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/0811.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-277">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/1007.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/1006.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/1008.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/1009.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/1010.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/1011.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/0919.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/0917.py">
+    <entry file="file://$PROJECT_DIR$/src/0904.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/0905.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/0906.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/0907.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="26" column="42" lean-forward="true" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/0908.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/0909.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-157" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/0910.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        <state relative-caret-position="494">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+          <folding>
+            <element signature="e#10#20#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/0911.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/0912.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-371" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/0913.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/0914.py">
+    <entry file="file://$PROJECT_DIR$/src/0912.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/0913.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-733" />
+        <state relative-caret-position="76">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/0914.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/0915.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-296" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/0916.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-269">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        <state relative-caret-position="494">
+          <caret line="27" column="8" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/0917.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/0918.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        <state relative-caret-position="285">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/0919.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/0920.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        <state relative-caret-position="361">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/0921.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/1001.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/1002.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="32" column="33" lean-forward="true" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/1003.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/1004.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/1005.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/0803.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="24" column="18" selection-end-line="29" />
+        <state relative-caret-position="532">
+          <caret line="29" column="27" lean-forward="true" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/1008.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="31" column="32" lean-forward="true" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/1009.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/1010.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-239" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/1011.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/1012.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/1013.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/1014.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/1101.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/1102.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+        <state relative-caret-position="749">
+          <caret line="90" column="22" selection-start-line="90" selection-start-column="21" selection-end-line="90" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/1103.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
+        <state relative-caret-position="551">
           <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/1104.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/1105.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-382" />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/1106.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/1107.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+        <state relative-caret-position="608">
+          <caret line="34" column="57" selection-start-line="34" selection-start-column="57" selection-end-line="34" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/tracking3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-652" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/1110.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/1111.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/1112.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="50" column="13" lean-forward="true" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/1113.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="49" column="13" lean-forward="true" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/1114.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/1108.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/1109.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/1110.py">
+    <entry file="file://$PROJECT_DIR$/dir/camera_output.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/1111.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/1112.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/1113.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/1114.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/1115.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/1116.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/1116_thinning.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dir/quiz7.py">
+    <entry file="file://$PROJECT_DIR$/project/tracking2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+        <state relative-caret-position="794">
+          <caret line="59" column="9" lean-forward="true" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/tracking.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="35" column="37" lean-forward="true" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/1005.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="737">
+          <caret line="49" column="30" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/1006.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/1007.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/trackingBall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="63" column="31" lean-forward="true" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
           <folding>
-            <element signature="e#10#20#0" expanded="true" />
+            <element signature="e#32#61#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 #1
-net = cv2.dnn.readNetFromTensorflow('./dnn/XOR_frozen_graph.pb')
+net = cv2.dnn.readNetFromTensorflow('../dnn/XOR_frozen_graph.pb')
 
 X = np.array([[0,0],
               [0,1],

@@ -14,7 +14,7 @@ def drawFlow(img, flow, thresh=2, stride=8):
                     cv2.circle(img, (x, y), 2, (0,255,0), -1)
                     cv2.line(img, (x, y), (x+dx, y+dy),(255, 0, 0), 1)
 #2          
-cap = cv2.VideoCapture('./data/vtest.avi')
+cap = cv2.VideoCapture('../data/vtest.avi')
 if (not cap.isOpened()): 
      print('Error opening video')
      

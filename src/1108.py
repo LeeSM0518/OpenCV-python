@@ -23,8 +23,8 @@ def loadIrisData(fileName):
   y = np.array(y_list, dtype=np.float32) # class, one-hot-encoding
   return x, y  
 
-x_train, y_train=loadIrisData('./data/irisTrainData.txt')
-x_test,  y_test =loadIrisData('./data/irisTestData.txt')
+x_train, y_train=loadIrisData('../data/irisTrainData.txt')
+x_test,  y_test =loadIrisData('../data/irisTestData.txt')
 
 #2
 ann = cv2.ml.ANN_MLP_create()

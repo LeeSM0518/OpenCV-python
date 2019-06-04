@@ -50,7 +50,7 @@ def createTracker():
 cv2.namedWindow('tracking')
 cv2.setMouseCallback('tracking', onMouse)
 
-cap = cv2.VideoCapture('./data/ball.wmv')
+cap = cv2.VideoCapture('../data/ball.wmv')
 ##cap = cv2.VideoCapture('./data/vtest.avi')
 if (not cap.isOpened()): 
      print('Error opening video')    
