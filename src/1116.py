@@ -4,7 +4,7 @@ import numpy as np
 
 #1
 ##net = cv2.dnn.readNetFromTensorflow('./dnn/MINIST_MLP_frozen_graph.pb')
-net = cv2.dnn.readNetFromTensorflow('./dnn/MINIST_CNN_frozen_graph2.pb')
+net = cv2.dnn.readNetFromTensorflow('../data/MINIST_CNN_frozen_graph2.pb')
 #2
 def onMouse(event, x, y, flags, param):
     if event == cv2.EVENT_MOUSEMOVE:
