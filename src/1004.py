@@ -24,7 +24,7 @@ def findObjectAndDraw(bImage, src):
     bImage = cv2.erode(bImage,None, 5)
     bImage = cv2.dilate(bImage,None,5)    
     bImage = cv2.erode(bImage,None, 7)    
-    _, contours, _ = cv2.findContours(bImage, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+    contours, _ = cv2.findContours(bImage, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
     cv2.drawContours(src, contours, -1, (255,0,0), 1)
     for i, cnt in enumerate(contours):
         area = cv2.contourArea(cnt)

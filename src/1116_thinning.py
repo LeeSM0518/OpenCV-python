@@ -4,7 +4,7 @@ import numpy as np
 
 #1
 ##net = cv2.dnn.readNetFromTensorflow('./dnn/MINIST_MLP_frozen_graph.pb')
-net = cv2.dnn.readNetFromTensorflow('./dnn/MINIST_CNN_frozen_graph2.pb')
+net = cv2.dnn.readNetFromTensorflow('./dnn/optimized_hangul_tensorflow.pb', '/dnn/hangul_tensorflow.pbtxt')
 #2
 def onMouse(event, x, y, flags, param):
     if event == cv2.EVENT_MOUSEMOVE:
@@ -41,7 +41,7 @@ x_img = np.zeros(shape=(28, 28), dtype=np.uint8)
 while True:
     key = cv2.waitKey(25)    
     if key == 27: 
-        break;
+        break
     elif key == ord('r'):
         dst[:,:] = 0
         cv2.imshow('dst',dst)

@@ -46,7 +46,7 @@ while True:
     bImage = cv2.erode(bImage,None, 7)
     cv2.imshow('bImage',bImage)
     msk = bImage.copy()
-    image, contours, hierarchy = cv2.findContours(bImage, mode, method)
+    contours, hierarchy = cv2.findContours(bImage, mode, method)
     cv2.drawContours(frame, contours, -1, (255,0,0), 1)   
     for i, cnt in enumerate(contours):
         area = cv2.contourArea(cnt)

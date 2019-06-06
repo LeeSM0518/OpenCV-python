@@ -2,7 +2,6 @@
 import cv2
 import numpy as np
 
-
 class CharacterRecognition:
 
     ann = cv2.ml_ANN_MLP.load('../data/ann-minist_2layer_BP.train')
@@ -11,8 +10,8 @@ class CharacterRecognition:
     dst = np.zeros(shape=(512, 512, 3), dtype=np.uint8)
 
     # 이미지의 가장 바깥쪽의 contour 만 추출
-    mode = cv2.RETR_EXTERNAL
-    method = cv2.CHAIN_APPROX_SIMPLE
+    mode = cv2.RETR_LIST
+    method = cv2.CHAIN_APPROX_NONE
     font = cv2.FONT_HERSHEY_SIMPLEX
     x_img = np.zeros(shape=(28, 28), dtype=np.uint8)
 
@@ -78,8 +77,9 @@ class CharacterRecognition:
                 contours, _ = cv2.findContours(gray, cls.mode, cls.method)
 
                 for i, cnt in enumerate(contours):
-                    # 3-1
+
                     x, y, width, height = cv2.boundingRect(cnt)
+                    print(cnt)
 
                     cv2.rectangle(cls.dst, (cls.leftEdge - cls.radius, cls.upEdge - cls.radius),
                                   (cls.rightEdge + cls.radius, cls.downEdge + cls.radius), (0, 0, 255), 2)
