@@ -105,8 +105,8 @@ class CharacterRecognition:
             elif key == 13:
                 resized = cv2.resize(cls.dst, dsize=(64, 64), interpolation=cv2.INTER_AREA)
                 cv2.imwrite('../doc/source/images/resized.jpg', resized)
-                img_pil = Image.fromarray(cls.blackBoard)
-                draw = ImageDraw.Draw(img_pil)
+                # img_pil = Image.fromarray(cls.blackBoard)
+                # draw = ImageDraw.Draw(img_pil)
                 draw.text((cls.width, cls.height), cls.fileRead('resized.jpg'), font=cls.font, fill=(255, 255, 255, 0))
                 cls.blackBoard = np.array(img_pil)
                 cv2.imshow('blackboard', cls.blackBoard)
